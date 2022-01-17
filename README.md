@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align=center>
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dk-ko&show_icons=true&count_private=true&theme=dark)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dk-ko&show_icons=true&count_private=true&show_icons=true&theme=gotham)  
 <!-- [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dk-ko&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&count_private=true)](https://github.com/dk-ko) -->
   
 </div>
